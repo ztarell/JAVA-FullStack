@@ -11,3 +11,7 @@ Added in order of upload to repo (not order of when finished)
 4. JDBC - SpringBoot Template todo 
 5. JDBC - SpringBoot Complex Meeting Manager
 6. JDBC - todoDB.sql, meetingDB.sql, and meetingDBtest.sql
+7. Birthday Calculator
+8. Goblin Tower (unfinished)
+9. Player Deck (unfinished)
+10. Stateless Unit Testing
