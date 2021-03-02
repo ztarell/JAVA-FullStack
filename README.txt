@@ -5,7 +5,7 @@ Instructor: Sean Palm
 Mthree Git Repo
 
 Added in order of upload to repo (not order of when finished)
-1. MVC - CodeAlong
+1. ClassRoster - MVC
 2. MySQL
 3. JDBC - Starter todo
 4. JDBC - SpringBoot Template todo 
