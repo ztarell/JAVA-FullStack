@@ -22,3 +22,4 @@ Added in order of upload to repo (not order of when finished)
 15. JQuery HTML Elements - just edited the home.js file per instructions
 16. Ajax REST exercise
 17. JQuery Broswer Events - just edited the home.js file per instructions
+18. ContactList REST Client - Code Along with added .css file
