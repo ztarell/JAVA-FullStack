@@ -19,3 +19,4 @@ Added in order of upload to repo (not order of when finished)
 12. Spring Boot REST Service - todoAPI
 13. Spring Boot REST - todoAPI_DB w/ database
 14. Crack the Code Game - without JDBC - Just Java Files
+15. JQuery HTML Elements - just edited the home.js file per instructions
