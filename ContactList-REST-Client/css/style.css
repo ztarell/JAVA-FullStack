@@ -1,0 +1,43 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    background-color: #222;
+}
+
+h1 {
+    text-align: center;
+    font-size: 400%;
+    text-decoration: underline;
+}
+
+h2#capsTitles {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+h2#boldTitle {
+    text-align: center;
+    font-weight: bold;
+}
+
+#contactTable {
+    background-color: lightblue;
+    color: navy;
+}
+
+#contactTable:hover {
+    color: black;
+}
+
+#addButton {
+    background-color: gray;
+    border-color: white;
+}
+#addButton:hover {
+    background-color: black;
+    color: white;
+}
+
