@@ -23,3 +23,4 @@ Added in order of upload to repo (not order of when finished)
 16. Ajax REST exercise
 17. JQuery Broswer Events - just edited the home.js file per instructions
 18. ContactList REST Client - Code Along with added .css file
+19. DVD Library Web Service - home.html and home.js
