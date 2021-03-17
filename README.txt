@@ -24,4 +24,6 @@ Added in order of upload to repo (not order of when finished)
 17. JQuery Broswer Events - just edited the home.js file per instructions
 18. ContactList REST Client - Code Along with added .css file
 19. DVD Library Web Service - home.html and home.js
-20. REACT - ContactList Code-ALong (src folder)
+20. REACT - ContactList App (used gitignore so no node_modules or build)
+21. REACT - BugTracker App (used gitignore so no node_modules or build)
+22. REACT - Dashboard App (used gitignore so no node_modules or build)
