@@ -28,3 +28,4 @@ Added in order of upload to repo (not order of when finished)
 21. REACT - BugTracker App (used gitignore so no node_modules or build)
 22. REACT - Dashboard App (used gitignore so no node_modules or build)
 23. More State Capitals Java Exercise
+24. ClassRoster - Spring Initializer - Full-Stack Web App
